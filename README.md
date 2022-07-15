@@ -3,9 +3,9 @@
 My name is Wibowo Arindrarto. I go by Bow.
 
 I am a software developer with a formal background in biomedical science. Aside from writing
-software, I have also contributed to [several published scientific studies](https://scholar.google.com/citations?user=h2sRcxwAAAAJ&hl=en).
+software, I have also [contributed to several studies about the human genome](https://scholar.google.com/citations?user=h2sRcxwAAAAJ&hl=en).
 
-I love to discover and build new things.
+I love to discover and build things.
 
 ---
 
