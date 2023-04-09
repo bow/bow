@@ -3,8 +3,7 @@
 My name is Wibowo Arindrarto. I go by Bow.
 
 I am a software developer with a formal background in biomedical science. Here you can find
-some of my public development work. Aside from this, I have also been involved in
-[a number of scientific papers](https://pubmed.ncbi.nlm.nih.gov/?term=Arindrarto%2C%20Wibowo%5BAuthor%5D&sort=date&size=50).
+some of my public work.
 
 ---
 
